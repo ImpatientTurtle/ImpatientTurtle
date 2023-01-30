@@ -10,5 +10,5 @@
 
 <p align="center">
     <img
-        src="https://komarev.com/ghpvc/?username=ImpatientTurtle&color=38bcad&style=plastic&label=Profile+Views" />
+        src="https://komarev.com/ghpvc/?username=ImpatientTurtle&color=38bcad&style=for-the-badge&label=Profile+Views" />
 </p>
