@@ -22,7 +22,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ImpatientTurtle&style=for-the-badge&label=Profile+Views" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://wakatime.com/share/@c9097350-6256-4637-976e-ecbd0ab78461/b17ae433-0251-4402-a9e2-566afb704888.svg">
-</p> -->
