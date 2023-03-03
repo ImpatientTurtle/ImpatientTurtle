@@ -14,9 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@c9097350-6256-4637-976e-ecbd0ab78461">
-    <img src="https://wakatime.com/badge/user/c9097350-6256-4637-976e-ecbd0ab78461.svg?style=for-the-badge" />
-  </a>
+  <img src="https://wakatime.com/badge/user/c9097350-6256-4637-976e-ecbd0ab78461.svg?style=for-the-badge" />
 </p>
 
 <p align="center">
